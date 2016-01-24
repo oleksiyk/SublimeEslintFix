@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Eslint: fix current file",
+        "command": "eslint_fix"
+    }
+]

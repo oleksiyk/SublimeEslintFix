@@ -1,0 +1,5 @@
+[
+	{
+		"keys": ["super+e", "super+f"], "command": "eslint_fix"
+	}
+]
